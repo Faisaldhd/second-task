@@ -10,3 +10,15 @@ no vanishing, no hovering. His arm relaxes after the release, then he bends down
 grips the barbell for a deadlift.
 
 Negative: scarf disappearing mid-air, floating, changing shape, clipping through the body.
+
+---
+
+# Prompt: عدة تكرارات بش أب حقيقية
+
+Same room and static camera. After placing the scarf on the floor, the man lowers into a
+plank on his hands beside the barbell and performs FIVE continuous, full push-ups at a steady
+pace: chest down to a few centimeters above the floor, back straight, then a full lockout.
+Each repetition is smooth and slightly different in speed, with natural breathing.
+One continuous shot, no cuts.
+
+Negative: jump cuts, repeated identical loops, ghosting, morphing body parts.
